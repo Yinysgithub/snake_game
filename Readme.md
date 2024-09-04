@@ -59,4 +59,4 @@ Use the following arrow keys to control the snake's direction:
 
 Watch the gameplay video to see how the game is played:
 
-![Gameplay Video](https://github.com/Yinysgithub/snake_game/blob/main/snake_game_example.mp4)
+![Gameplay Video](snake_game_example.mp4)
